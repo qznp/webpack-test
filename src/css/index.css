@@ -2,3 +2,8 @@ body {
   background-color: red;
   color: #000000;
 }
+#tupian {
+  background-image: url(../imgs/test.jpg);
+  width: 400px;
+  height: 400px;
+}
